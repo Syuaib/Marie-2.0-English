@@ -20,7 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hi {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-I'm a group manager bot maintained by  [this person](tg://user?id={}).
+I'm a group manager bot maintained by [this person](tg://user?id={}).
 
 
 
@@ -51,8 +51,7 @@ And the following:
 DONATE_STRING = """Heya, glad to hear you want to donate!
 It took lots of work for [my creator](t.me/MuhSyuaib) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
-(see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/MuhSyuaib)."""
+(see his bio!). He's just a poor student, so every little helps!"""
 
 IMPORTED = {}
 MIGRATEABLE = []
